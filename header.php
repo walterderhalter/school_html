@@ -1,8 +1,9 @@
 <!DOCTYPE HTML>
 <html>
 <header>
-   <title>Title of the page</title>
+   <title>Früchte</title>
    <link rel="stylesheet" href="style.css">
+   <link rel="icon" type="image/x-icon" href="favicon.ico"/>
    
 </header>
 <body >

@@ -9,6 +9,18 @@ body {
   padding-left: 15%;
   padding-right: 15%;
   font-family: Arial, Helvetica, sans-serif;
+  font-size: 19px;
+}
+
+
+h1 {
+  font-size: 40px;
+}
+h2{
+  font-size: 25px;
+}
+h3{
+  font-size: 20px;
 }
 
 .navbar {
@@ -21,13 +33,13 @@ body {
   background-color: #333;
 }
 
-.navbarItem{
+.navbarItem {
   float: left;
   width: 25%;
 }
 
 
-.navbarItem a{
+.navbarItem a {
   display: block;
   color: white;
   text-align: center;
@@ -35,7 +47,7 @@ body {
   text-decoration: none;
 }
 
-.navbarItem a:hover{
+.navbarItem a:hover {
   background-color: #111;
 }
 
@@ -52,9 +64,6 @@ body {
   background-image: url("Assets/banner2.jpg");
   background-size: cover;
   color: white;
-  font-size: 25px;
-
-
 }
 
 .sticky {
@@ -72,13 +81,13 @@ body {
 
 
 
-.grid-container{
+.grid-container {
   display: grid;
   padding: 10px;
   gap: 10px 10px;
   grid-template-columns: auto auto;
 }
 
-.grid-item{
+.grid-item {
   padding: 10px;
 }
