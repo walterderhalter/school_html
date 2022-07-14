@@ -15,10 +15,10 @@
 
   <div class="header" id="sickystickyHeader">
     <ul class="navbar">
-      <li><a  href="#start">Start</a></li>
-      <li><a href="#quiz">Quiz</a></li>
-      <li><a href="#top">Top 10</a></li>
-      <li><a href="#kontakt">Kontakt</a></li>
+      <li class="navbarItem"><a href="#start">Start</a></li>
+      <li class="navbarItem"><a href="#quiz">Quiz</a></li>
+      <li class="navbarItem"><a href="#top">Top 10</a></li>
+      <li class="navbarItem"><a href="#kontakt">Kontakt</a></li>
     </ul>
   </div>
 

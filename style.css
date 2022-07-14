@@ -1,66 +1,84 @@
-ul {
-    list-style-type: none;
-    overflow: hidden;
-    background-color: #333;
-  }
-
-  body{
-    background-color: azure;
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  li {
-    float: left;
-    width: 25%;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  li a:hover {
-    background-color: #111;
-  }
-  
-.navbar{
-      width: 100%;
-      padding-left: 0px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    }
 .header {
 
   background-color: #111;
 }
+
+body {
+  background-color: azure;
+  margin: 0;
+  padding-left: 15%;
+  padding-right: 15%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  width: 100%;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbarItem{
+  float: left;
+  width: 25%;
+}
+
+
+.navbarItem a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbarItem a:hover{
+  background-color: #111;
+}
+
+
 
 .content {
   padding: 16px;
 }
 
 .top-container {
-  
-  padding: 5px;
+
+  padding: 35px;
   text-align: center;
-  background-image: url("banner2.jpg");
+  background-image: url("Assets/banner2.jpg");
   background-size: cover;
   color: white;
-  font-size: 20px;
- 
-  
-}
+  font-size: 25px;
 
+
+}
 
 .sticky {
   position: fixed;
   top: 0;
-  width: 100%;
+  width: 70%;
 }
 
-.sticky + .content {
+.sticky+.content {
   padding-top: 102px;
+}
+
+
+
+
+
+
+.grid-container{
+  display: grid;
+  padding: 10px;
+  gap: 10px 10px;
+  grid-template-columns: auto auto;
+}
+
+.grid-item{
+  padding: 10px;
 }
