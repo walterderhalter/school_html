@@ -111,14 +111,16 @@ Hier geht es zum Video:
     <h4>Fakt 1</h4>
     <p>Etwa 30.000 Apfelsorten gibt es weltweit, davon 2000 in Deutschland. <br>
     In den Supermärkten liegen aber meist nur Sorten wie <br>
-    Elstar, Jonagold, Golden Delicious oder Braeburn </p><br>
+    Elstar, Jonagold, Golden Delicious oder Braeburn</p><br>
     </section>
 
 </artical>
 </div>
 
 
-Hallo
+
+
+
 </main>
 
 <?php include('footer.php'); ?>
