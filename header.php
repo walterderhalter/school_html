@@ -2,10 +2,12 @@
 <html>
 <header>
    <title>Früchte</title>
+   <link rel="stylesheet" href="footer.css">
    <link rel="stylesheet" href="style.css">
    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
    <link rel="stylesheet" href="Top10.css">
-   <link rel="stylesheet" href="Apfel.css">
+   <link rel="stylesheet" href="apple.css">
+   
    
 </header>
 <body >

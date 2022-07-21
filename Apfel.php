@@ -69,15 +69,18 @@ Hier geht es zum Video:
 
 <div class ="Beliebtheit">
     <h3> Beliebtheit </h3>
+    <p>
     Der Apfel ist die bleibste Frucht ganz Deutschland. <br>
     Damit du auch vor Augen hast, wie Beliebt die Frucht der Deutschen ist, <br>
-    zeigen wir dir an 5 Fakten: <br>
+    zeigen wir dir an 5 Fakten: 
+    </p>
+
 
     <artical class="fivefact">
     <h3> 5 Fakten über Äpfel </h3>
 
     <section class="fact">
-    <h3>Fakt 1</h3>
+    <h4>Fakt 1</h4>
     <p>
     Deutsche lieben Äpfel: <br>
     Fast <enum>25 Kilogramm</enum> verputzt jeder von uns im Jahr, <br>
@@ -86,7 +89,7 @@ Hier geht es zum Video:
     </section>
 
     <section class="fact">
-    <h3>Fakt 1</h3>
+    <h4>Fakt 2</h4>
     <p>Deutsche lieben Äpfel: <br>
     Etwa sieben Jahre muss ein Apfelbaum aus einem Samen wachsen, <br>
     bis er zum ersten Mal Früchte trägt. <br>
@@ -94,33 +97,109 @@ Hier geht es zum Video:
     </section>
 
     <section class="fact">
-    <h3>Fakt 1</h3>
+    <h4>Fakt 3</h4>
    <p> Kein Wunder, dass er so saftig ist: <br>
     Ein Apfel besteht zu 85 Prozent aus Wasser. <br>
     Der Rest sind Kohlenhydrate, Fett, Eiweiß, Mineralstoffe und Vitamine. </p> <br>
     </section>
 
     <section class="fact">
-    <h4>Fakt 1</h4>
+    <h4>Fakt 4</h4>
     <p>Der größte Apfel der Welt wurde laut Guinnessbuch <br>
     der Rekorde 2005 in Japan von Chisato Iwasaki geerntet: <br>
     Das Prachtstück wog 1,849 Kilogramm. </p> <br>
     </section>
 
     <section class="fact">
-    <h4>Fakt 1</h4>
+    <h4>Fakt 5</h4>
     <p>Etwa 30.000 Apfelsorten gibt es weltweit, davon 2000 in Deutschland. <br>
     In den Supermärkten liegen aber meist nur Sorten wie <br>
     Elstar, Jonagold, Golden Delicious oder Braeburn</p><br>
     </section>
 
+    <p>Quelle: <a href="https://www.geo.de/geolino/natur-und-umwelt/14740-rtkl-gib-mir-fuenf-fuenfmal-staunen-ueber-aepfel#:~:text=Etwa%20sieben%20Jahre%20muss%20ein,%2C%20Eiwei%C3%9F%2C%20Mineralstoffe%20und%20Vitamine." 
+    target="_self"> Link</a></p>
 </artical>
 </div>
+<hr>
 
+<div class ="Inhaltsstoffe">
+    <h3> Inhaltsstoffe </h3>
 
+    <p> 
+        Hier noch eine Übersicht zu den Inhaltsstoffe von einem Apfel:
+    </p>
 
+<table class="table"> 
+    <thead>
+    <tr> 
+    <th> Apfel Inhaltsstoffe</th> 
+    <th> <p>je 100 <abbr lang="de" title="Gramm">g</abbr> verzehr-<br>barer Anteil, ungeschält, roh</p></th> 
+    <th> Apfel Inhaltsstoffe</th> 
+    <th> je 100 <abbr lang="de" title="Gramm">g</abbr> verzehrbarer <br>Anteil, ungeschält und roh</th> 
+   </tr> 
+</thead>
+  <tbody> 
+   <tr> 
+    <td> Energie (<abbr lang="de" title="Kilokalorien">kcal</abbr>)</td> 
+    <td> 54</td> 
+    <td> Vitamin A (<abbr lang="de" title="Mikrogramm">µg</abbr>)</td> 
+    <td> 6</td> 
+   </tr> 
+   <tr> 
+    <td> Fett (<abbr lang="de" title="Gramm">g</abbr>)</td> 
+    <td> 0,6</td> 
+    <td> Vitamin B1 (<abbr lang="de" title="Milligramm">mg</abbr>)</td> 
+    <td> 0,04</td> 
+   </tr> 
+   <tr> 
+    <td> Protein (<abbr lang="de" title="Gramm">g</abbr>)</td> 
+    <td> 0,3</td> 
+    <td> Vitamin B2 (<abbr lang="de" title="Milligramm">mg</abbr>)</td> 
+    <td> 0,03</td> 
+   </tr> 
+   <tr> 
+    <td> Kohlenhydrate (<abbr lang="de" title="Gramm">g</abbr>)</td> 
+    <td> 11,4</td> 
+    <td> Niacin (<abbr lang="de" title="Milligramm">mg</abbr>)</td> 
+    <td> 0,3</td> 
+   </tr> 
+   <tr> 
+    <td> Ballaststoffe (<abbr lang="de" title="Gramm">g</abbr>)</td> 
+    <td> 2,0</td> 
+    <td> Vitamin B6 (<abbr lang="de" title="Milligramm">mg</abbr>)</td> 
+    <td> 0,1</td> 
+   </tr> 
+   <tr> 
+    <td> Kalium (<abbr lang="de" title="Milligramm">mg</abbr>)</td> 
+    <td> 122</td> 
+    <td> Folsäure (<abbr lang="de" title="Mikrogramm">µg</abbr>)</td> 
+    <td> 7,5</td> 
+   </tr> 
+   <tr> 
+    <td> Kalzium (<abbr lang="de" title="Milligramm">mg</abbr>)</td> 
+    <td> 7 </td> 
+    <td> Vitamin C (<abbr lang="de" title="Milligramm">mg</abbr>)</td> 
+    <td> 12</td> 
+   </tr> 
+   <tr> 
+    <td> Magnesium (<abbr lang="de" title="Milligramm">mg</abbr>)</td> 
+    <td> 6</td> 
+    <td> Vitamin E (<abbr lang="de" title="Milligramm">mg</abbr>)</td> 
+    <td> 0,5</td> 
+   </tr> 
+   <tr> 
+    <td> Eisen (<abbr lang="de" title="Milligramm">mg</abbr>)</td> 
+    <td> 0,5</td> 
+    <td> </td> 
+    <td> </td> 
+   </tr> 
+  </tbody> 
+ </table>
+ <p>Quelle: <a href="https://www.gesundheit.gv.at/leben/ernaehrung/saisonkalender/alle/apfel.html" 
+    target="_self"> Link</a></p>
 
-
+</div>
 </main>
 
 <?php include('footer.php'); ?>

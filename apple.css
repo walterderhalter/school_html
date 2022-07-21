@@ -13,8 +13,15 @@ color: black
 	font-weight: 200;
 	margin-bottom: 10px;
 	text-transform: uppercase;
-	}
+}
 
+#Apfel h3{
+	text-align: left;
+	font-size: 30px;
+	font-weight: 200;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
 
 #Apfel blockquote{
 	margin-top: 10px;
@@ -32,8 +39,20 @@ color: black
 
 .fact
 {
+	
 	text-align: center;
 	font-family: cursive;
-	background-color: brown;
+	background-color: greenyellow;
 }
+
+.table, th, td{
+	border-collapse: collapse;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.table{
+	width: 100%;
+}
+
 
