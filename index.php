@@ -43,7 +43,7 @@
     <dt><h3>1. Die Farbe Orange ist nach der Frucht benannt worden, nicht umgekehrt.</h3></dt>
     <dd>Vor der Erfindung des Wortes „Orange“ wurden orangene Dinge als „Safran“ oder rot beschrieben. Das erklärt, warum wir von Rothaarigen statt von Orangehaarigen reden, was eigentlich zutreffender wäre.</dd>
 
-    <dt><h3>2. Bananen sind von Natur aus leicht radioaktiv.</h3></dt>
+    <dt><h3>2. BBananen sind von Natur aus leicht radioaktiv.</h3></dt>
     <dd>Das liegt daran, dass das in ihnen enthaltene Kalium ein natürlich auftretendes, radioaktives Isotop ist. Aber keine Sorge – die Strahlenbelastung, der du beim Essen einer Banane ausgesetzt bist, entspricht ungefähr 1 Prozent der täglichen Strahlenbelastung. Du müsstest 100.000.000 Bananen in sehr kurzer Zeit essen, um eine tödliche Dosis zu erreichen.</dd>
 
     <dt><h3>3. Wenn du versuchst einen Apfelbaum aus einem Samen zu ziehen trägt er vermutlich keine Früchte. Und wenn, dann sehen die Äpfel nicht so aus, wie die, deren Samen du eingepflanzt hast.</h3></dt>
