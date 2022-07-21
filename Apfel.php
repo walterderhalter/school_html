@@ -1,8 +1,8 @@
 <?php include('header.php'); ?>
 <?php include('nav.php'); ?>
 
-<section id="Apfel">
-<h2> Platz 1. Der Apfel </h2>
+<main id="Apfel">
+<h1> Platz 1. Der Apfel </h1>
 
 <div class="Einleitung">
 
@@ -12,7 +12,7 @@
 </div>
 
 <div class="Geschmak">
-<h3> Der Geschmak </h3>
+<h2> Der Geschmak </h2>
 Der Geschmak des Apfels ist vielfälltig. <br>
 Den es kommt kommt ganz auf die Herkunft und Beschaffenheit von Äpfeln an.<br>
 Mal sind die sauer, mal zuckersüß.<br>
@@ -45,7 +45,7 @@ Hier hast du mal eine kleine Liste, welche Sorten von Äpfel die belietesten sin
 </table> <hr>
 
 <div class="Geruch">
-<h3> Geruch </h3>
+<h2> Geruch </h2>
 Der Geruch ist eine ausagenkräftige Aussage dafür, ob die Frucht noch gut ist oder nicht. <br>
 Den reife Äpfel duften. Äpfel verströmen über ihre Schale ein Aroma, das von zitronig-leichten Düften bis hin zu erdigen Noten reicht.<br>
 Es gibt auch eine gute Fautregel:<br>
@@ -57,17 +57,68 @@ Es gibt auch eine gute Fautregel:<br>
 <hr>
 
 <div class ="Gesundheit">
-<h3> Gesundheit</h3>
+<h2> Gesundheit</h2>
 An dieser Stelle möchten wir auf ein Video verweisen. <br>
 Hier geht es zum Video: 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iWrfsSzboLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+</div>
 
+<hr>
 
+<div class ="Beliebtheit">
+    <h3> Beliebtheit </h3>
+    Der Apfel ist die bleibste Frucht ganz Deutschland. <br>
+    Damit du auch vor Augen hast, wie Beliebt die Frucht der Deutschen ist, <br>
+    zeigen wir dir an 5 Fakten: <br>
+
+    <artical class="fivefact">
+    <h3> 5 Fakten über Äpfel </h3>
+
+    <section class="fact">
+    <h3>Fakt 1</h3>
+    <p>
+    Deutsche lieben Äpfel: <br>
+    Fast <enum>25 Kilogramm</enum> verputzt jeder von uns im Jahr, <br>
+    etwa im Kuchen, als Saft oder auch als pure Frucht.<br>
+    Das sind insgesamt rund zwei Millionen Tonnen! </p><br>
+    </section>
+
+    <section class="fact">
+    <h3>Fakt 1</h3>
+    <p>Deutsche lieben Äpfel: <br>
+    Etwa sieben Jahre muss ein Apfelbaum aus einem Samen wachsen, <br>
+    bis er zum ersten Mal Früchte trägt. <br>
+    Dafür kann er bis zu 100 Jahre alt werden. </p><br>
+    </section>
+
+    <section class="fact">
+    <h3>Fakt 1</h3>
+   <p> Kein Wunder, dass er so saftig ist: <br>
+    Ein Apfel besteht zu 85 Prozent aus Wasser. <br>
+    Der Rest sind Kohlenhydrate, Fett, Eiweiß, Mineralstoffe und Vitamine. </p> <br>
+    </section>
+
+    <section class="fact">
+    <h4>Fakt 1</h4>
+    <p>Der größte Apfel der Welt wurde laut Guinnessbuch <br>
+    der Rekorde 2005 in Japan von Chisato Iwasaki geerntet: <br>
+    Das Prachtstück wog 1,849 Kilogramm. </p> <br>
+    </section>
+
+    <section class="fact">
+    <h4>Fakt 1</h4>
+    <p>Etwa 30.000 Apfelsorten gibt es weltweit, davon 2000 in Deutschland. <br>
+    In den Supermärkten liegen aber meist nur Sorten wie <br>
+    Elstar, Jonagold, Golden Delicious oder Braeburn </p><br>
+    </section>
+
+</artical>
 </div>
 
 
-</section>
+Hallo
+</main>
 
 <?php include('footer.php'); ?>

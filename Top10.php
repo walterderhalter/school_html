@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 <?php include('nav.php'); ?>
 
-<section id="food">
+<section id="fruit">
   <h2>Unsere Top 10</h2>
 
   Auf dieser Seite findest du unsere <strong> Top 10 </strong> Früchte. <br>
