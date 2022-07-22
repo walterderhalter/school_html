@@ -27,19 +27,18 @@ Hier hast du mal eine kleine Liste, welche Sorten von Äpfel die belietesten sin
 <td><img src="https://quiz-media.stroeermediabrands.de/fd/30/8e/12c08415ec55d79b187a61df59_YyAzMDAweDE2ODgrMCszMzQCcmUgNDgwIDI3MANmMDEwMWNkYjcxNQ==.jpg" alt="vergifterter Apfel" width="330" height="240"/></td>
 </tr>
 <tr>
-<td> Elstar ist eine der beliebtesten Apfelsorten im Norden. <br>
-    Sein saftiges, weiß-gelbliches Fruchtfleisch hat <br>
+<td> Elstar ist eine der beliebtesten Apfelsorten im <br>
+    Norden. 
+    Sein saftiges, weiß-gelbliches Fruchtfleisch <br>
+    hat 
     einen intensiven, fein säuerlichen Geschmack. <br>
     Bei guter Lagerung schmeckt er bis in den Mai.<br></td>
 <td> Die meist recht großen Früchte des Jonagold sind <br>
     sonnenseitig leuchtend rot und glänzend. <br>
     Sie schmecken süß bis fein säuerlich.<br>
      Er gehört zu den häufigsten Sorten im Norden. </td>
-<td>Ein waschechter Altländer ist der Gloster, <br>
-    der 1951 in Jork im Alten Land gezüchtet wurde. <br>
-    Charakteristisch sind die dunkelrote Schale <br>
-    und die Glockenform. <br>
-    Sein fein säuerliches Aroma schmeckt am besten pur.<br></td>
+<td>Der giftige Apfel von Schneewittchen ist nicht <br>
+     zu empfehlen </td>
 </tr>
 </tbody>
 </table> <hr>
@@ -131,7 +130,7 @@ Hier geht es zum Video:
     </p>
 
 <table class="table"> 
-    <thead>
+<thead>
     <tr> 
     <th> Apfel Inhaltsstoffe</th> 
     <th> <p>je 100 <abbr lang="de" title="Gramm">g</abbr> verzehr-<br>barer Anteil, ungeschält, roh</p></th> 
@@ -195,11 +194,21 @@ Hier geht es zum Video:
     <td> </td> 
    </tr> 
   </tbody> 
+
  </table>
  <p>Quelle: <a href="https://www.gesundheit.gv.at/leben/ernaehrung/saisonkalender/alle/apfel.html" 
     target="_self"> Link</a></p>
+    <hr>
 
-</div>
+
+    <p> 
+        Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter zur Platz 2
+    </p>
+    <div class="Rechtsbündig">
+            <a href="Banane.php" 
+            target="_self"> Platz 2: Die Banane</a>
+    </div>
+
 </main>
 
 <?php include('footer.php'); ?>

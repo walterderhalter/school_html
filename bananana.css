@@ -1,0 +1,43 @@
+#Banana h2{
+	text-align: left;
+	font-size: 30px;
+	font-weight: 200;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+
+#Banana h3{
+	text-align: left;
+	font-size: 30px;
+	font-weight: 200;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+.Test { 
+    float:right; 
+    position: relative;
+    width:0px;
+    top: 0px;
+    bottom: 0px;
+
+  }
+
+
+
+#Banana img{
+
+    padding-bottom: 20px;
+    margin-left: 100px;
+  }
+
+.Linksbündig{
+    display:block;
+    text-align:left; 
+    float:left;
+}
+
+.Rechtsbündig{
+    display:block; 
+    text-align:right
+
+}
