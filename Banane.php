@@ -32,8 +32,6 @@
 <main id="Banana">
 <h1> Platz 2: Die Banane </h1>
 
-
-
 <div class="Einleitung">
 
     In dem Text werden alle wissenswerte Dinge über die Bananen präsentiert. <br>
@@ -41,21 +39,19 @@
 
 </div>
 
-<hr>
-
-
- 
 <div class="Geschmak">
-<h2> Geschmak </h2>
+    <h2> Geschmak </h2>
 
-<p>
-Reife Bananen haben einen angenehmen süßlichen Geschmack. <br>
-Wenn sie noch leicht grün sind, können sie eine leicht säuerliche Note beinhalten. <br>
-Außerdem ist das Fruchtfleisch bei diesem Reifegrad noch fester. 
-</p>
+    <p>
+        Reife Bananen haben einen angenehmen süßlichen Geschmack. <br>
+        Wenn sie noch leicht grün sind, können sie eine leicht säuerliche Note beinhalten. <br>
+        Außerdem ist das Fruchtfleisch bei diesem Reifegrad noch fester. 
+    </p>
 
-Quelle: <a href="https://www.gutekueche.at/banane-artikel-1119#:~:text=gerade%20wachsende%20Bananensorten.-,Geschmack,bei%20diesem%20Reifegrad%20noch%20fester.">
-    Link </a> 
+    Quelle: 
+        <a href="https://www.gutekueche.at/banane-artikel-1119#:~:text=gerade%20wachsende%20Bananensorten.-,Geschmack,bei%20diesem%20Reifegrad%20noch%20fester.">
+            Link 
+        </a> 
     <br>
 
 <p>
@@ -72,6 +68,12 @@ Es gibt sogar ein Banana-Song (ab 0:50 wird es richtig nervig).
 <hr>
 
 <div class="Geruch">
+
+
+<div class="FaktBanana">
+    <strong>Zusatzfakt: </strong> <br>
+ <em>Männliche Mäuse hassen den Geruch von Bananen.</em>
+</div>
 <h2> Geruch </h2>
 <p>
 Bananen besitzen einen ganz leicht angenehmen Geruch. Treten einige Bananen <br>
@@ -79,15 +81,15 @@ ins Klimakterium (turner),<br>
  wird der von der Ware ausgehende Geruch merklich intensiver.
 </p>
 
-<p>
- <strong>Zusatzfakt: </strong> <br>
- <em>Männliche Mäuse hassen den Geruch von Bananen.</em>
-</p>
 
+
+
+<p>
 Quelle Geruch: <a href="https://www.tis-gdv.de/tis/ware/obst/banane/banane-htm/#:~:text=Bananen%20besitzen%20einen%20ganz%20leicht,Ware%20ausgehende%20Geruch%20merklich%20intensiver.">
     Link </a> <br>
 Quelle Fakt: <a href="https://www.stern.de/panorama/wissen/natur/warum-hassen-maennliche-maeuse-den-geruch-von-bananenschalen--31913812.html">
-    Link </a> <br>
+    Link </a> 
+</p>
 </div>
 
 <hr>
@@ -101,8 +103,68 @@ Quelle Fakt: <a href="https://www.stern.de/panorama/wissen/natur/warum-hassen-ma
 
 <hr>
 
+<div class ="Inhaltsstoffe">
+    <h3> Inhaltsstoffe </h3>
+
+    <p> 
+        Hier noch eine Übersicht zu den Inhaltsstoffe von einer Banane:
+    </p>
+
+<table class="table"> 
+<thead>
+    <tr class="dunkelgelb">
+    <th> Banane Inhaltsstoffe</th> 
+    <th> <p>Dosierung pro 100  <abbr lang="de" title="Gramm">g</abbr></p></th> 
+</thead>
+
+  <tbody> 
+  <tr class="gelb">
+    <td> Kohlenhydrate (<abbr title="Kilokalorien">kcal</abbr>)</td> 
+    <td> 90</td> 
+   </tr> 
+
+   <tr class="blassgelb">
+    <td> Vitamin C </td> 
+    <td> 11 <abbr title="Milligramm">mg</abbr></td> 
+   </tr> 
+
+    <tr class="gelb">
+    <td> Folsäure </td> 
+    <td> 2,0 <abbr title="Microgramm">µg</abbr></td> 
+   </tr> 
+
+   <tr class="blassgelb"> 
+    <td> Kalium </td> 
+    <td> 380 <abbr title="Milligramm">mg</abbr></td>
+   </tr> 
+
+   <tr class="gelb">
+    <td> Magnesium </td> 
+    <td> 30 <abbr title="Milligramm">mg</abbr></td> 
+   </tr> 
+
+   <tr class="blassgelb">
+    <td> Beta-Carotin </td> 
+    <td> 30 <abbr title="Microgramm">µg</abbr></td> 
+   </tr> 
+
+   <tr class="gelb">
+    <td> Phosphor </td> 
+    <td> 22 <abbr title="Milligramm">mg</abbr></td> 
+   </tr> 
+  </tbody> 
+
+
+ </table>
+
+ </table>
+ <p>Quelle: <a href="https://www.gesundheitswissen.de/ernaehrung/gesunde-lebensmittel/obst-und-gemuese/alles-banane-oder-was/" 
+    target="_self"> Link</a></p>
+
+    <hr>
+
 <p> 
-  Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter zur Platz 2
+  Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter:
 </p>
     <p>
         <div class="Linksbündig">
@@ -111,8 +173,8 @@ Quelle Fakt: <a href="https://www.stern.de/panorama/wissen/natur/warum-hassen-ma
         </div>
 
         <div class="Rechtsbündig">
-            <a href="Pirsich.php" 
-            target="_self"> Platz 3: Der Pirsich</a>
+            <a href="Pfirsich.php" 
+            target="_self"> Platz 3: Der Pfirsich</a>
         </div>
     </p>
 

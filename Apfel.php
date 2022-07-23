@@ -118,7 +118,7 @@ Hier geht es zum Video:
 
     <p>Quelle: <a href="https://www.geo.de/geolino/natur-und-umwelt/14740-rtkl-gib-mir-fuenf-fuenfmal-staunen-ueber-aepfel#:~:text=Etwa%20sieben%20Jahre%20muss%20ein,%2C%20Eiwei%C3%9F%2C%20Mineralstoffe%20und%20Vitamine." 
     target="_self"> Link</a></p>
-</artical>
+    </artical>
 </div>
 <hr>
 
@@ -194,6 +194,18 @@ Hier geht es zum Video:
     <td> </td> 
    </tr> 
   </tbody> 
+  <tfoot>
+
+    <tr> 
+    <th> Apfel Inhaltsstoffe</th> 
+    <th> <p>je 100 <abbr lang="de" title="Gramm">g</abbr> verzehr-<br>barer Anteil, ungeschält, roh</p></th> 
+    <th> Apfel Inhaltsstoffe</th> 
+    <th> je 100 <abbr lang="de" title="Gramm">g</abbr> verzehrbarer <br>Anteil, ungeschält und roh</th> 
+   </tr> 
+
+</tfoot>
+
+ </table>
 
  </table>
  <p>Quelle: <a href="https://www.gesundheit.gv.at/leben/ernaehrung/saisonkalender/alle/apfel.html" 

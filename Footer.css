@@ -4,16 +4,17 @@
     box-shadow: 0 50vh 0 50vh rgb(31, 20, 54);;
     background-color: rgb(31, 20, 54);
     color: white;
+    display: flex;
 
 }
 
 .footer-left{
     margin-right: 1.25em;
     margin-bottom: 2em;
-
 }
+
 .footer img{
-    width: 10%;
+    width: 70%;
     padding-left: 0px;
     float: left;
 
@@ -35,8 +36,8 @@
     text-align: center;
     display:inline-table;
     vertical-align:top;
-    width: 330px;
-    margin-left: 20px;
+    width: 300px;
+    margin-left: 10px;
 
 }
 

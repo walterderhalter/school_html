@@ -31,9 +31,10 @@ color: black
 
 .fivefact{
 	display: block;
-	width: 600px;
+	width: 800px;
+	margin: auto;
 	box-shadow: 2px 2px 3px 1px grey;
-	background-color: aqua;
+	background-color: rgb(241, 125, 125);
 }
 
 
@@ -41,7 +42,7 @@ color: black
 {
 	text-align: center;
 	font-family: cursive;
-	background-color: greenyellow;
+	background-color: rgb(169, 230, 77);
 }
 
 .table, th, td{
@@ -53,10 +54,7 @@ color: black
 }
 
 .table{
-
-	
 	width: 100%;
-
 }
 
 
