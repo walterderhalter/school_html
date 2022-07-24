@@ -3,14 +3,14 @@
 <header>
   <meta charset="UTF-8">
    <title>Früchte</title>
-   <link rel="stylesheet" href="assets/Footer.css">
-   <link rel="stylesheet" href="assets/style.css">
-   <link rel="stylesheet" href="assets/footer.css">
+   <link rel="stylesheet" href="css/Footer.css">
+   <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="css/footer.css">
    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
-   <link rel="stylesheet" href="assets/Top10.css">
-   <link rel="stylesheet" href="assets/Apple.css">
-   <link rel="stylesheet" href="assets/banana.css">
-   <link rel="stylesheet" href="assets/Peach.css">
+   <link rel="stylesheet" href="css/Top10.css">
+   <link rel="stylesheet" href="css/Apple.css">
+   <link rel="stylesheet" href="css/banana.css">
+   <link rel="stylesheet" href="css/Peach.css">
    
    
 </header>

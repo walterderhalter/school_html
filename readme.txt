@@ -22,4 +22,7 @@ XAMPP-Version:
 * XAMPP for Windows 8.1.2
 
 Hinweise:
-* 
+
+Github Link:
+https://github.com/walterderhalter/school_html
+Wurde nicht besonders sorgfältig gepflegt aber als Backup reicht es
