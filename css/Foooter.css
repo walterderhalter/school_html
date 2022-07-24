@@ -1,0 +1,56 @@
+
+.footer{
+    box-shadow: 0 50vh 0 50vh rgb(31, 20, 54);;
+    background-color: rgb(31, 20, 54);
+    color: white;
+    display: flex;
+
+}
+
+.footer-left{
+    margin-right: 1.25em;
+    margin-bottom: 2em;
+}
+
+.footer img{
+    width: 70%;
+    padding-left: 0px;
+    float: left;
+
+}
+
+.footer h2{
+    font-weight: 400;
+    font-size: 25px;
+
+}
+.footer ul{
+    margin:0;
+    padding:0;
+    font-size:18px;
+    width:100%;
+
+}
+.footer ul li{
+    text-align: center;
+    display:inline-table;
+    vertical-align:top;
+    width: 300px;
+    margin-left: 10px;
+
+}
+
+
+.footer p{
+    text-align: center;
+    margin-top: 50px;
+    font-size: small;
+    color:  grey;
+
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+
+}

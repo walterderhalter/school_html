@@ -3,7 +3,7 @@
 <header>
   <meta charset="UTF-8">
    <title>Früchte</title>
-   <link rel="stylesheet" href="css/Footer.css">
+   <link rel="stylesheet" href="css/Foooter.css">
    <link rel="stylesheet" href="css/style.css">
    <link rel="stylesheet" href="css/footer.css">
    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
