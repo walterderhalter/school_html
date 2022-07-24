@@ -35,7 +35,7 @@
 <div class="Einleitung">
 
     In dem Text werden alle wissenswerte Dinge über die Bananen präsentiert. <br>
-    Wir erklären dir, weshalb <a href="Banane.php" target="_self"> die Banane</a> die zweit beste Freucht ist. <br>
+    Wir erklären dir, weshalb <a href="Banane.php" target="_self"> die Banane</a> die zweitbeste Frucht ist. <br>
 
 </div>
 

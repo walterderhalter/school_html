@@ -12,9 +12,9 @@
 </div>
 
 <div class="Geschmak">
-<h2> Der Geschmak </h2>
-Der Geschmak des Apfels ist vielfälltig. <br>
-Den es kommt kommt ganz auf die Herkunft und Beschaffenheit von Äpfeln an.<br>
+<h2> Der Geschmack </h2>
+Der Geschmack des Apfels ist vielfältig. <br>
+Den es kommt ganz auf die Herkunft und Beschaffenheit von Äpfeln an.<br>
 Mal sind die sauer, mal zuckersüß.<br>
 Hier hast du mal eine kleine Liste, welche Sorten von Äpfel die belietesten sind und vorallem, wie diese schmecken :P <hr>
 </div>
@@ -45,9 +45,9 @@ Hier hast du mal eine kleine Liste, welche Sorten von Äpfel die belietesten sin
 
 <div class="Geruch">
 <h2> Geruch </h2>
-Der Geruch ist eine ausagenkräftige Aussage dafür, ob die Frucht noch gut ist oder nicht. <br>
+Der Geruch ist eine aussagekräftige Aussage dafür, ob die Frucht noch gut ist oder nicht. <br>
 Den reife Äpfel duften. Äpfel verströmen über ihre Schale ein Aroma, das von zitronig-leichten Düften bis hin zu erdigen Noten reicht.<br>
-Es gibt auch eine gute Fautregel:<br>
+Es gibt auch eine gute Faustregel:<br>
 <blockquote cite="https://de.vapiano.com/de/blog/fuehlen-klopfen-riechen-so-erkennt-ihr-reife-fruechte/#:~:text=Vor%20allem%20Äpfel%20verströmen%20über,sie%20fast%20schon%20überreif%20sind.">
   <p>&bdquo;Nehmt ein Stück Obst in die Hand, und schnuppert daran! 
    Je besser der Duft, umso reifer die Frucht.&ldquo;</p>
@@ -69,8 +69,8 @@ Hier geht es zum Video:
 <div class ="Beliebtheit">
     <h3> Beliebtheit </h3>
     <p>
-    Der Apfel ist die bleibste Frucht ganz Deutschland. <br>
-    Damit du auch vor Augen hast, wie Beliebt die Frucht der Deutschen ist, <br>
+    Der Apfel ist die beliebteste Frucht ganz Deutschland. <br>
+    Damit du auch vor Augen hast, wie beliebt die Frucht der Deutschen ist, <br>
     zeigen wir dir an 5 Fakten: 
     </p>
 
@@ -213,7 +213,7 @@ Hier geht es zum Video:
 
 
     <p> 
-        Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter zur Platz 2
+        Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter zu Platz 2
     </p>
     <div class="Rechtsbündig">
             <a href="Banane.php" 

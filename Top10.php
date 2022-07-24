@@ -5,7 +5,7 @@
   <h2>Unsere Top 10</h2>
 
   Auf dieser Seite findest du unsere <strong> Top 10 </strong> Früchte. <br>
-Anhand dieser Kriterien haben wir unsere persönliche <strong> Top 10 </strong> der Füchte erstellt:
+Anhand dieser Kriterien haben wir unsere persönliche <strong> Top 10 </strong> der Früchte erstellt:
 
     <ol>
     <li>
