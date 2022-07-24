@@ -4,7 +4,7 @@
 <div class="content">
     <form action="quiz.php" method="post">
         <div class="quizContainer">
-            <img class="quizImg" src="Assets/q1.jpg" alt="">
+            <img class="quizImg" src="assets/q1.jpg" alt="">
 
             <label>1. Was für eine Obstsorte ist auf dem Bild zu sehen?</label> <br> <br>
 
@@ -57,7 +57,7 @@
 
 
         <div class="quizContainer">
-            <img class="quizImg" src="Assets/q3.jpg" alt="">
+            <img class="quizImg" src="assets/q3.jpg" alt="">
             <label>3. Wie viele registrierte Apfelsorten gibt es?</label> <br> <br>
 
             <div class="row">
@@ -83,7 +83,7 @@
 
 
         <div class="quizContainer">
-            <img class="quizImg" src="Assets/q4.jpg" alt="">
+            <img class="quizImg" src="assets/q4.jpg" alt="">
             <label>4. Die Avocado besitzt verschiedene Übernamen. Welcher gehört NICHT dazu?</label> <br> <br>
 
             <div class="row">
@@ -134,7 +134,7 @@
 
 
         <div class="quizContainer">
-            <img class="quizImg" src="Assets/q6.jpg" alt="">
+            <img class="quizImg" src="assets/q6.jpg" alt="">
             <label>6. Die Gurke gehört botanisch eigentlich zum Obst. Mit welcher Frucht ist sie verwandt?</label> <br> <br>
 
             <div class="row">
@@ -159,7 +159,7 @@
         </div>
 
         <div class="quizContainer">
-            <img class="quizImg" src="Assets/q7.jpg" alt="">
+            <img class="quizImg" src="assets/q7.jpg" alt="">
             <label>7. Grapefruits sind kalorienarm. Weißt du, aus wie viel Prozent Wasser sie bestehen?</label> <br> <br>
 
             <div class="row">
@@ -185,7 +185,7 @@
 
 
         <div class="quizContainer">
-            <img class="quizImg" src="Assets/q8.jpg" alt="">
+            <img class="quizImg" src="assets/q8.jpg" alt="">
             <label>8. Wo wächst eine Ananas?</label> <br> <br>
 
             <div class="row">
