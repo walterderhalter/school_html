@@ -1,0 +1,33 @@
+#strawberry h1{
+    text-align: left;
+    font-size: 60px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: black
+    }
+    
+    #strawberry h2{
+        text-align: left;
+        font-size: 30px;
+        font-weight: 200;
+        margin-bottom: 10px;
+        text-transform: uppercase;
+    }
+    
+    #strawberry h3{
+        text-align: left;
+        font-size: 30px;
+        font-weight: 200;
+        margin-bottom: 10px;
+        text-transform: uppercase;
+    }
+
+    .ErdbeereBild{
+        float: right;
+        text-align: center;
+    }
+
+
+
+

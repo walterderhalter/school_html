@@ -19,11 +19,12 @@
   <div class="footer-left">
     <img src="favicon.ico" alt="Icon">
 </div>
+
 <ul class="footer-right">
 <li>
   <h2> Produkt </h2>
 
-  <ul class="box">
+  <ul >
     <li> <a href="#">Theme Design </a> </li>
     <li> <a href="#">Plugin Design </a></li>
     <li> <a href="#">Wordpress </a></li>
@@ -34,7 +35,7 @@
 <li>
   <h2> Useful Links</h2>
 
-<ul class="box">
+<ul>
   <li><a href="">Blog </a> </li>
   <li><a href="#">Pricing </a></li>
   <li><a href="#">Tickets </a></li>
@@ -46,7 +47,7 @@
 <li>
   <h2> Adresse </h2>
 
-<ul class="box">
+<ul>
   <li><a href="#">Lohrtalweg 10</a></li>
   <li><a href="#">74613 Mosbach </a></li>
   <li><a href="#">Baden-Württemberg </a></li>
@@ -55,10 +56,13 @@
 </li>
 
 
-<div class="footer-buttom">
+
+
+
+
 <p>Copyright &copy; 2022  All rights not reserved. :)</p>
 
-
+</ul>
 </footer>
 
 </html>
