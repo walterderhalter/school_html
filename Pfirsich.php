@@ -135,6 +135,7 @@ Quelle: <a href="https://www.gesund-vital.de/pfirsiche#:~:text=Pfirsiche%20liefe
 
 <table class="table"> 
 <thead>
+<caption>Übersichtstabelle</caption>
     <tr> 
     <th> Pfirsich Inhaltsstoffe</th> 
     <th> <p>je 100 <abbr lang="de" title="Gramm">g</abbr> verzehr-<br>barer Anteil, ungeschält, roh</p></th> 

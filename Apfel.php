@@ -7,7 +7,7 @@
 <div class="Einleitung">
 
     In dem Text werden alle wissenswerte Dinge über Äpfel präsentiert. <br>
-    Wir erklären dir, weshalb <a href="Apfel.php" target="_self"> der Apfel</a> beste Freucht ist. <br>
+    Wir erklären dir, weshalb <a href="Apfel.php" target="_self"> der Apfel</a> beste Frucht ist. <br>
 
 </div>
 
@@ -131,6 +131,7 @@ Hier geht es zum Video:
 
 <table class="table"> 
 <thead>
+<caption>Übersichtstabelle</caption>
     <tr> 
     <th> Apfel Inhaltsstoffe</th> 
     <th> <p>je 100 <abbr lang="de" title="Gramm">g</abbr> verzehr-<br>barer Anteil, ungeschält, roh</p></th> 

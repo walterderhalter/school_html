@@ -81,9 +81,6 @@ ins Klimakterium (turner),<br>
  wird der von der Ware ausgehende Geruch merklich intensiver.
 </p>
 
-
-
-
 <p>
 Quelle Geruch: <a href="https://www.tis-gdv.de/tis/ware/obst/banane/banane-htm/#:~:text=Bananen%20besitzen%20einen%20ganz%20leicht,Ware%20ausgehende%20Geruch%20merklich%20intensiver.">
     Link </a> <br>
@@ -111,6 +108,7 @@ Quelle Fakt: <a href="https://www.stern.de/panorama/wissen/natur/warum-hassen-ma
     </p>
 
 <table class="table"> 
+<caption>Übersichtstabelle</caption>
 <thead>
     <tr class="dunkelgelb">
     <th> Banane Inhaltsstoffe</th> 
