@@ -5,20 +5,20 @@
 <form action="contact.php" method="post">
 
   <div class="elem-group">
-    <label for="name">Name</label>
+    <label class="labelStyle" for="name">Name</label>
 
     <input type="text" id="name" name="name" placeholder="Vorname Nachname" pattern=[A-Z\sa-z]{3,20} required>
   </div>
 
   <div class="elem-group">
-    <label for="email">E-Mail Adresse</label>
+    <label class="labelStyle" for="email">E-Mail Adresse</label>
     
     <input type="email" id="email" name="email" placeholder="john.doe@email.com" required>
   </div>
 
   <div class="elem-group">
-    <label for="department-selection">Frage zum Thema</label>
-    <select id="department-selection" name="thema" required>
+    <label class="labelStyle" for="selection">Frage zum Thema</label>
+    <select id="selection" name="thema" required>
         <option value="allgemein">Allgemein</option>
         <option value="fruchte">Früchte</option>
         <option value="technisch">Technisch</option>
@@ -26,15 +26,15 @@
   </div>
 
   <div class="elem-group">
-    <label for="title">Überschrift/Titel</label>
+    <label class="labelStyle" for="title">Überschrift/Titel</label>
 
-    <input type="text" id="title" name="email_title" required placeholder="Frage zum Thema...">
+    <input type="text" id="title" name="title" required placeholder="Frage zum Thema...">
   </div>
 
   <div class="elem-group">
-    <label for="message">Ihre Nachricht</label>
+    <label class="labelStyle" for="message">Ihre Nachricht</label>
 
-    <textarea id="message" name="visitor_message" placeholder="Erläutern Sie ihr  Anliegen." required></textarea>
+    <textarea id="message" name="message" placeholder="Erläutern Sie ihr Anliegen." required></textarea>
   </div>
 
   <button type="submit">Nachricht senden</button>
@@ -45,7 +45,12 @@
 
 if (! empty($_POST['name'])){
     $name=$_POST['name'];
-    echo $name;
+    $email=$_POST['email'];
+    $thema=$_POST['thema'];
+    $title=$_POST['title'];
+    $message=$_POST['message'];
+
+    echo '<script> alert("Anfrage wurde erfolgreich gesendet"); </script>';
 }
 
 
