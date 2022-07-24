@@ -17,9 +17,8 @@
 
 <footer class ="footer">
   <div class="footer-left">
-    <img src="favicon.ico" alt="Icon">
+   
     <p>
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
     </p>
     <div class="Logo">
       <a herf=""> <i class="fa fa-facebook"></i></a>
