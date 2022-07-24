@@ -1,13 +1,16 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="de">
 <header>
+  <meta charset="UTF-8">
    <title>Früchte</title>
-
+   <link rel="stylesheet" href="Footer.css">
    <link rel="stylesheet" href="style.css">
    <link rel="stylesheet" href="footer.css">
    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
    <link rel="stylesheet" href="Top10.css">
-   <link rel="stylesheet" href="apple.css">
+   <link rel="stylesheet" href="Apple.css">
+   <link rel="stylesheet" href="banana.css">
+   <link rel="stylesheet" href="Peach.css">
    
    
 </header>

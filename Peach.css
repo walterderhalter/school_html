@@ -1,0 +1,98 @@
+#peach h1{
+	text-align: left;
+	font-size: 60px;
+	font-weight: 400;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	color: black
+	}
+
+#peach h2{
+	text-align: left;
+	font-size: 30px;
+	font-weight: 200;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+    
+}
+
+#peach h3{
+	text-align: left;
+	font-size: 30px;
+	font-weight: 200;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+
+
+.Seite{
+
+		float:right; 
+		position: relative;
+		width:auto;
+
+}
+
+.ZusatzFakt{
+    float:right; 
+    width: 600px;
+    height: 280px;
+    padding: 5px;
+    background: linear-gradient(orange, red, brown);
+    border-radius: 10px;
+    clip-path: circle(23.2% at 100% 0);
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+
+}
+.ZusatzFakt:hover{
+clip-path: circle(141.4% at 100% 0);
+}
+
+#peach details{
+
+		width: 80%;
+		margin: 0 auto ;
+		background: orange;
+		margin-bottom: .5rem;
+		border-radius: 5px;
+		overflow: hidden;
+
+	  
+}
+
+
+
+#peach summary{
+
+		box-shadow: 2px 2px 3px 1px grey;
+		padding: 1rem;
+		display: block;
+		background: orange;
+		padding-left: 2.2rem;
+		position: relative;
+		cursor: pointer;
+	  
+}
+
+#peach summary:before {
+	content: '';
+	border-width: .4rem;
+	border-style: solid;
+	border-color: transparent transparent transparent black;
+	position: absolute;
+	top: 1.3rem;
+	left: 1rem;
+	transform: rotate(0);
+	transform-origin: .2rem 50%;
+	transition: .25s transform ease;
+  }
+  
+
+ #peach details[open] > summary:before {
+	transform: rotate(90deg);
+  }
+
+
+
+  

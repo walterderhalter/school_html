@@ -1,0 +1,82 @@
+#Banana h1{
+  text-align: left;
+  font-size: 60px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  color: black
+  }
+
+
+#Banana h2{
+	text-align: left;
+	font-size: 30px;
+	font-weight: 200;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+
+#Banana h3{
+	text-align: left;
+	font-size: 30px;
+	font-weight: 200;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+.Test { 
+    float:right; 
+    position: relative;
+    width:0px;
+    top: 0px;
+    bottom: 0px;
+
+  }
+
+
+
+#Banana img{
+
+    padding-bottom: 20px;
+    margin-left: 100px;
+  }
+
+.Linksbündig{
+    display:block;
+    text-align:left; 
+    float:left;
+}
+
+.Rechtsbündig{
+    display:block; 
+    text-align:right
+
+}
+
+.FaktBanana{
+  float:right; 
+  width: 300px;
+  height: 150px;
+  padding: 5px;
+  background: yellow;
+  border-radius: 10px;
+  clip-path: circle(23.2% at 100% 0);
+  cursor: pointer;
+  transition: all 0.4s ease-in-out;
+
+}
+.FaktBanana:hover{
+clip-path: circle(141.4% at 100% 0);
+}
+
+.gelb{
+  background-color:rgba(255, 238, 0, 0.6);
+}
+
+.blassgelb{
+  background-color:rgba(255, 238, 0, 0.4);
+}
+
+.dunkelgelb{
+  background-color:rgba(255, 238, 0, 1);
+
+}
