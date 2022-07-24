@@ -60,7 +60,7 @@ Es gibt sogar ein Banana-Song (ab 0:50 wird es richtig nervig).
 </p>
 
 <audio controls>
-<source src="Assets/banana song - minions.mp3">
+<source src="assets/banana song - minions.mp3">
 </audio>
 
 </div>

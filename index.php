@@ -27,10 +27,10 @@
 
     <div style="width: 40%; float:right">
       <div class="grid-container">
-      <div class="grid-item"><a href="Assets/fruchtmarktC.jpg"><img src="Assets/fruchtmarkt.jpg" alt="Bild eines Früchtstands auf einem Markt" width="100%" height="100%"></a></div>  
-      <div class="grid-item"><a href="Assets/KingPumpkinC.jpg"><img src="Assets/KingPumpkin.jpg" alt="Bild eines Früchtstands auf einem Markt" width="100%" height="100%"></a></div> 
-      <div class="grid-item"><a href="Assets/Raspberry.jpg"><img src="Assets/Raspberry.jpg" alt="Bild eines Früchtstands auf einem Markt" width="100%" height="100%"></a></div>  
-      <div class="grid-item"><a href="Assets/fruchteC.jpg"><img src="Assets/fruchte.jpg" alt="Bild eines Früchtstands auf einem Markt" width="100%" height="100%"></a></div> 
+      <div class="grid-item"><a href="assets/fruchtmarktC.jpg"><img src="assets/fruchtmarkt.jpg" alt="Bild eines Früchtstands auf einem Markt" width="100%" height="100%"></a></div>  
+      <div class="grid-item"><a href="assets/KingPumpkinC.jpg"><img src="assets/KingPumpkin.jpg" alt="Bild eines Früchtstands auf einem Markt" width="100%" height="100%"></a></div> 
+      <div class="grid-item"><a href="assets/Raspberry.jpg"><img src="assets/Raspberry.jpg" alt="Bild eines Früchtstands auf einem Markt" width="100%" height="100%"></a></div>  
+      <div class="grid-item"><a href="assets/fruchteC.jpg"><img src="assets/fruchte.jpg" alt="Bild eines Früchtstands auf einem Markt" width="100%" height="100%"></a></div> 
       </div>
     </div>
   </div>
