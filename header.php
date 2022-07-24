@@ -11,8 +11,7 @@
    <link rel="stylesheet" href="css/Apple.css">
    <link rel="stylesheet" href="css/banana.css">
    <link rel="stylesheet" href="css/Peach.css">
-   
-   
+   <link rel="stylesheet" href="css/Strawberry.css">
 </header>
 <body class="body-style" >
 
