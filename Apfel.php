@@ -2,7 +2,7 @@
 <?php include('nav.php'); ?>
 
 <main id="Apfel">
-<h1> Platz 1. Der Apfel </h1>
+<h1> Platz 1: Der Apfel </h1>
 
 <div class="Einleitung">
 
@@ -205,8 +205,6 @@ Hier geht es zum Video:
    </tr> 
 
 </tfoot>
-
- </table>
 
  </table>
  <p>Quelle: <a href="https://www.gesundheit.gv.at/leben/ernaehrung/saisonkalender/alle/apfel.html" 

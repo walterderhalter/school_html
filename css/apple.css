@@ -57,7 +57,14 @@ color: black
 	width: 100%;
 }
 
-.a[target] {
-	color: yellow;
+a:active {
+	color: grey;
+	text-decoration: none;
   }
+
+::selection {
+	color: white;
+	background: black;
+  }
+
 

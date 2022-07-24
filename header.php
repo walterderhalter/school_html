@@ -18,7 +18,7 @@
   
   <div class="top-container">
     <h1>Früchte</h1>
-    <p>Eine Website nach der keiner gefragt hat und niemand braucht</p>
+    <p>Eine sehr tolle und fruchtige Website</p>
 </div>
 
 

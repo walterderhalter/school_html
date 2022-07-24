@@ -74,7 +74,7 @@ Klick auf die einzelnen Felder und um mehr zu erfahren:<br>
          <img src="https://s.zentrum-der-gesundheit.de/img/1d6301bd58ca5644f84c6b529d60660e"alt="Heidelbeere">
          <div class="img-content">
            <h3>Platz 5: Die Heidelbeere</h3>
-           <a href="Banane.php" target="_blank" class="button">klicke hier um mehr zu erfahren</a>
+           <a href="Heidelbeere.php" target="_blank" class="button">klicke hier um mehr zu erfahren</a>
          </div>
        </div>
      </div>
@@ -85,7 +85,7 @@ Klick auf die einzelnen Felder und um mehr zu erfahren:<br>
          <img src="https://www.plantura.garden/wp-content/uploads/2017/08/kirschen-holztisch.jpg"alt="Kirsche">
          <div class="img-content">
            <h3>Platz 6: Die Krische</h3>
-           <a href="Banane.php" target="_blank" class="button">klicke hier um mehr zu erfahren</a>
+           <a href="Kirsche.php" target="_blank" class="button">klicke hier um mehr zu erfahren</a>
          </div>
        </div>
      </div>
@@ -96,7 +96,7 @@ Klick auf die einzelnen Felder und um mehr zu erfahren:<br>
          <img src="https://www.gustini.ch/media/catalog/product/cache/3/image/800x/9df78eab33525d08d6e5fb8d27136e95/7/3/73280_3.jpg"alt="Olive">
          <div class="img-content">
            <h3>Platz 7: Die Olive</h3>
-           <a href="Oliven.php" target="_blank" class="button">klicke hier um mehr zu erfahren</a>
+           <a href="Olive.php" target="_blank" class="button">klicke hier um mehr zu erfahren</a>
          </div>
        </div>
      </div>
@@ -106,8 +106,8 @@ Klick auf die einzelnen Felder und um mehr zu erfahren:<br>
        <div class="img-container">
          <img src="https://www.plantura.garden/wp-content/uploads/2017/07/maracuja-frucht-1024x683.jpg"alt="">
          <div class="img-content">
-           <h3>Platz 8: Der Marakuja</h3>
-           <a href="Banane.php" target="_blank" class="button">klicke hier um mehr zu erfahren</a>
+           <h3>Platz 8: Die Maracuja</h3>
+           <a href="Leer.php" target="_blank" class="button">klicke hier um mehr zu erfahren</a>
          </div>
        </div>
      </div>
@@ -117,7 +117,7 @@ Klick auf die einzelnen Felder und um mehr zu erfahren:<br>
          <img src="https://www.alnatura.de/-/media/Alnatura/B2C/Bilder/rezepte/saisonkalender/Gemuese_Saisonkalender/Salatgurke_Saisonkalender_Stage.jpg?h=411&mw=960&w=960&hash=75D1421C651838C1C8918697A818C03B"alt="">
          <div class="img-content">
            <h3>Platz 9: Die Gurke</h3>
-           <a href="Banane.php" target="_blank" class="button">klicke hier um mehr zu erfahren</a>
+           <a href="Gurke.php" target="_blank" class="button">klicke hier um mehr zu erfahren</a>
          </div>
        </div>
      </div>
@@ -127,7 +127,7 @@ Klick auf die einzelnen Felder und um mehr zu erfahren:<br>
     <img src="https://www.baumschule-horstmann.de/bilder/popup/himbeere-tulamagic--m071583_h_0.jpg"alt="">
     <div class="img-content">
       <h3>Platz 10: Die Himbeere</h3>
-      <a href="Himbeere.php" target="_blank" class="button">klicke hier um mehr zu erfahren</a>
+      <a href="Leer.php" target="_blank" class="button">klicke hier um mehr zu erfahren</a>
     </div>
   </div>
 </div>
