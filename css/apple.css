@@ -1,10 +1,10 @@
-#Apfel h1{
-text-align: left;
-font-size: 60px;
-font-weight: 400;
-margin-bottom: 20px;
-text-transform: uppercase;
-color: black
+#Apfel h1 {
+	text-align: left;
+	font-size: 60px;
+	font-weight: 400;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	color: black;
 }
 
 #Apfel h2{
@@ -64,7 +64,8 @@ a:active {
 
 ::selection {
 	color: white;
-	background: black;
+	background: rgb(0, 0, 0);
   }
+
 
 

@@ -1,10 +1,10 @@
 <?php include('header.php'); ?>
 <?php include('nav.php'); ?>
 
-<h1> Platz 9. Die Kirsche </h1>
+<h1> Platz 9. Die Gurke </h1>
 
 <h2> Fun-Fakt: </h2>
-<h3> Die Gurke ist eine Frucht </h3>
+<h3> Die Gurke ist keine Frucht </h3>
 
 <hr>
 

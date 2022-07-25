@@ -50,7 +50,6 @@ clip-path: circle(141.4% at 100% 0);
 }
 
 #peach details{
-
 		width: 80%;
 		margin: 0 auto ;
 		background: orange;
@@ -62,7 +61,7 @@ clip-path: circle(141.4% at 100% 0);
 
 
 
-#peach summary{
+#peach details > summary{
 
 		box-shadow: 2px 2px 3px 1px grey;
 		padding: 1rem;

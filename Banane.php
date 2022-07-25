@@ -44,6 +44,14 @@
 			height="220"
 			alt="Bananen Love">
 	</a>
+	<a
+		href="https://m.media-amazon.com/images/M/MV5BMzMwYjc1N2MtY2U2Ny00MTc3LTk1YWQtYzE3NmM5NWQ2YzkyXkEyXkFqcGdeQXVyMzAzODY0NzE@._V1_.jpg">
+		<img
+			src="https://m.media-amazon.com/images/M/MV5BMzMwYjc1N2MtY2U2Ny00MTc3LTk1YWQtYzE3NmM5NWQ2YzkyXkEyXkFqcGdeQXVyMzAzODY0NzE@._V1_.jpg"
+			width="200"
+			height="310"
+			alt="Banane Minion">
+	</a>
 </aside>
 
 <main id="Banana">

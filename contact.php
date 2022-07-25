@@ -52,15 +52,6 @@ if (! empty($_POST['name'])){
 
     echo '<script> alert("Anfrage wurde erfolgreich gesendet"); </script>';
 }
-
-
 ?>
-
 </div>
-
-
-
-
-
-
 <?php include('footer.php'); ?>

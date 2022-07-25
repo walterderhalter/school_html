@@ -2,7 +2,7 @@
 <?php include('nav.php'); ?>
 <main>
 <h1> Platz 7. Die Olive? NEIN! </h1>
-<h2> Sorry, aber eig. mag kein normaler Mensch Oliven, <br>
+<h2> Sorry, aber eig. mag keiner von uns Oliven, <br>
 deswegen gibt es hier nichts :( </h2>
 
 <hr>
