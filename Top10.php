@@ -25,6 +25,10 @@ Anhand dieser Kriterien haben wir unsere persönliche <strong> Top 10 </strong> 
      </li>
     </ol >
 
+<p>
+  Hinweis: Die Texte sind Teilweise 1:1 von anderen Webseiten übernommen. <br>
+  Entsprechende Quellen sind als Link zur Website angegeben. 
+</p>
 
 Klick auf die einzelnen Felder und um mehr zu erfahren:<br>
 
