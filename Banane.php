@@ -8,25 +8,25 @@
 			src="https://m.media-amazon.com/images/M/MV5BMzMwYjc1N2MtY2U2Ny00MTc3LTk1YWQtYzE3NmM5NWQ2YzkyXkEyXkFqcGdeQXVyMzAzODY0NzE@._V1_.jpg"
 			width="200"
 			height="310"
-			alt="Banane Minion" />
+			alt="Banane Minion">
 	</a>
-	<br />
+	<br>
 	<a
 		href="https://i.otto.de/i/otto/5ac1c5bb-bcd0-5f76-a4ba-28499fa0d58c?h=520&w=551&sm=clamp">
 		<img
 			src="https://i.otto.de/i/otto/5ac1c5bb-bcd0-5f76-a4ba-28499fa0d58c?h=520&w=551&sm=clamp"
 			width="200"
 			height="310"
-			alt="Bananen Kostum" />
+			alt="Bananen Kostum">
 	</a>
-	<br />
+	<br>
 	<a
 		href="https://www.wwf.ch/sites/default/files/styles/key_visual_large_16_10/public/2021-03/Bananen.jpg?h=733e6470&itok=EUFofKU1">
 		<img
 			src="https://www.wwf.ch/sites/default/files/styles/key_visual_large_16_10/public/2021-03/Bananen.jpg?h=733e6470&itok=EUFofKU1"
 			width="200"
 			height="200"
-			alt="Bananen Banana" />
+			alt="Bananen Banana">
 	</a>
 	<a
 		href="https://previews.123rf.com/images/shadowstudio/shadowstudio1511/shadowstudio151100002/48725846-gl%C3%BCckliche-nette-affe-die-banane-isst.jpg">
@@ -34,7 +34,7 @@
 			src="https://previews.123rf.com/images/shadowstudio/shadowstudio1511/shadowstudio151100002/48725846-gl%C3%BCckliche-nette-affe-die-banane-isst.jpg"
 			width="200"
 			height="300"
-			alt="Bananen Affe" />
+			alt="Bananen Affe">
 	</a>
 	<a
 		href="https://domf5oio6qrcr.cloudfront.net/medialibrary/6372/202ebeef-6657-44ec-8fff-28352e1f5999.jpg">
@@ -42,7 +42,7 @@
 			src="https://domf5oio6qrcr.cloudfront.net/medialibrary/6372/202ebeef-6657-44ec-8fff-28352e1f5999.jpg"
 			width="200"
 			height="220"
-			alt="Bananen Love" />
+			alt="Bananen Love">
 	</a>
 </aside>
 
@@ -51,10 +51,10 @@
 
 	<div class="Einleitung">
 		In dem Text werden alle wissenswerte Dinge über die Bananen präsentiert.
-		<br />
+		<br>
 		Wir erklären dir, weshalb
 		<a href="Banane.php" target="_self"> die Banane</a> die zweitbeste Frucht ist.
-		<br />
+		<br>
 	</div>
 
 	<div class="Geschmak">
@@ -84,7 +84,7 @@
 		</audio>
 	</div>
 
-	<hr />
+	<hr>
 
 	<div class="Geruch">
 		<div class="FaktBanana">
@@ -94,8 +94,8 @@
 		<h2>Geruch</h2>
 		<p>
 			Bananen besitzen einen ganz leicht angenehmen Geruch. Treten einige Bananen
-			<br />
-			ins Klimakterium (turner),<br />
+			<br>
+			ins Klimakterium (turner),<br>
 			wird der von der Ware ausgehende Geruch merklich intensiver.
 		</p>
 
@@ -105,7 +105,7 @@
 				href="https://www.tis-gdv.de/tis/ware/obst/banane/banane-htm/#:~:text=Bananen%20besitzen%20einen%20ganz%20leicht,Ware%20ausgehende%20Geruch%20merklich%20intensiver.">
 				Link
 			</a>
-			<br />
+			<br>
 			Quelle Fakt:
 			<a
 				href="https://www.stern.de/panorama/wissen/natur/warum-hassen-maennliche-maeuse-den-geruch-von-bananenschalen--31913812.html">
@@ -114,7 +114,7 @@
 		</p>
 	</div>
 
-	<hr />
+	<hr>
 
 	<div class="Beliebtheit und Gesundheit">
 		<h2>Beliebtheit und Gesundheit</h2>
@@ -122,15 +122,15 @@
 			src="https://imagemarker.com/editor/storage/app/images/4N5QWhMJxwQ08fzX1uGOeV7Cgfx9nNizgy944QiQ.jpeg"
 			alt="Gesunde Banana"
 			width="500"
-			height="500" />
+			height="500">
 		<img
 			src="https://rohtopia.com/wp-content/uploads/2013/01/10630618_901183409900251_3408876877771360536_o.jpg"
 			alt="Gesunde Banana"
 			width="500"
-			height="500" />
+			height="500">
 	</div>
 
-	<hr />
+	<hr>
 
 	<div class="Inhaltsstoffe">
 		<h3>Inhaltsstoffe</h3>
@@ -191,11 +191,12 @@
 			<a
 				href="https://www.gesundheitswissen.de/ernaehrung/gesunde-lebensmittel/obst-und-gemuese/alles-banane-oder-was/"
 				target="_self">
-				Link</a
-			>
+				Link	
+			</a>
 		</p>
 	</div>
-	<hr />
+	
+	<hr >
 
 	<p>Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter:</p>
 
