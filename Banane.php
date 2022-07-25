@@ -12,7 +12,7 @@
       alt="Banane Minion"
     />
   </a>
-  <br>
+  <br />
   <a
     href="https://i.otto.de/i/otto/5ac1c5bb-bcd0-5f76-a4ba-28499fa0d58c?h=520&w=551&sm=clamp"
   >
@@ -23,7 +23,7 @@
       alt="Bananen Kostum"
     />
   </a>
-  <br>
+  <br />
   <a
     href="https://www.wwf.ch/sites/default/files/styles/key_visual_large_16_10/public/2021-03/Bananen.jpg?h=733e6470&itok=EUFofKU1"
   >
@@ -61,19 +61,19 @@
 
   <div class="Einleitung">
     In dem Text werden alle wissenswerte Dinge über die Bananen präsentiert.
-    <br>
+    <br />
     Wir erklären dir, weshalb
     <a href="Banane.php" target="_self"> die Banane</a> die zweitbeste Frucht
-    ist. <br>
+    ist. <br />
   </div>
 
   <div class="Geschmak">
     <h2>Geschmak</h2>
 
     <p>
-      Reife Bananen haben einen angenehmen süßlichen Geschmack. <br>
+      Reife Bananen haben einen angenehmen süßlichen Geschmack. <br />
       Wenn sie noch leicht grün sind, können sie eine leicht säuerliche Note
-      beinhalten. <br>
+      beinhalten. <br />
       Außerdem ist das Fruchtfleisch bei diesem Reifegrad noch fester.
     </p>
 
@@ -83,10 +83,10 @@
     >
       Link
     </a>
-    <br>
+    <br />
 
     <p>
-      Selbst die Minions lieben Bananen <br>
+      Selbst die Minions lieben Bananen <br />
       Es gibt sogar ein Banana-Song (ab 0:50 wird es richtig nervig).
     </p>
 
@@ -95,7 +95,7 @@
     </audio>
   </div>
 
-  <hr>
+  <hr />
 
   <div class="Geruch">
     <div class="FaktBanana">
@@ -127,7 +127,7 @@
     </p>
   </div>
 
-  <hr>
+  <hr />
 
   <div class="Beliebtheit und Gesundheit">
     <h2>Beliebtheit und Gesundheit</h2>
@@ -145,7 +145,7 @@
     />
   </div>
 
-  <hr>
+  <hr />
 
   <div class="Inhaltsstoffe">
     <h3>Inhaltsstoffe</h3>
@@ -153,9 +153,7 @@
     <p>Hier noch eine Übersicht zu den Inhaltsstoffe von einer Banane:</p>
 
     <table class="table">
-      <caption>
-        Übersichtstabelle
-      </caption>
+      <caption> Übersichtstabelle </caption>
       <thead>
         <tr class="dunkelgelb">
           <th>Banane Inhaltsstoffe</th>
@@ -213,7 +211,7 @@
       >
     </p>
   </div>
-  <hr>
+  <hr />
 
   <p>Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter:</p>
 
