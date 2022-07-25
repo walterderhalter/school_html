@@ -134,8 +134,8 @@ Quelle: <a href="https://www.gesund-vital.de/pfirsiche#:~:text=Pfirsiche%20liefe
     </p>
 
 <table class="table"> 
-<thead>
 <caption>Übersichtstabelle</caption>
+<thead>
     <tr> 
     <th> Pfirsich Inhaltsstoffe</th> 
     <th> <p>je 100 <abbr lang="de" title="Gramm">g</abbr> verzehr-<br>barer Anteil, ungeschält, roh</p></th> 
@@ -192,6 +192,7 @@ Quelle: <a href="https://www.gesund-vital.de/pfirsiche#:~:text=Pfirsiche%20liefe
     <td> Vitamin E (<abbr lang="de" title="Milligramm">mg</abbr>)</td> 
     <td> 0,5</td> 
    </tr> 
+</tbody> 
    <tfoot>
     <tr> 
     <th> Pfirsich Inhaltsstoffe</th> 
@@ -199,21 +200,22 @@ Quelle: <a href="https://www.gesund-vital.de/pfirsiche#:~:text=Pfirsiche%20liefe
     <th> Pfirsich Inhaltsstoffe</th> 
     <th> je 100 <abbr lang="de" title="Gramm">g</abbr> verzehrbarer <br>Anteil, ungeschält und roh</th> 
    </tr> 
-
 </tfoot>
-  </tbody> 
+  
 
  </table>
  <p>Quelle: <a href="https://www.gesundheit.gv.at/leben/ernaehrung/saisonkalender/alle/pfirsich.html" 
-    target="_self"> Link</a></p>
-
+    target="_self"> Link</a>
+	</p>
+</div>
     <hr>
 
 <p> 
   Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter:
 </p>
 
-    <p>
+    
+
         <div class="Linksbündig">
             <a href="Banane.php" 
             target="_self"> Platz 2: Die Banane</a>
@@ -223,7 +225,8 @@ Quelle: <a href="https://www.gesund-vital.de/pfirsiche#:~:text=Pfirsiche%20liefe
             <a href="Erdbeere.php" 
             target="_self"> Platz 4: Die Erdbeere</a>
         </div>
-</p>
+
+
 
 </main>
 
