@@ -53,8 +53,8 @@
 		In dem Text werden alle wissenswerte Dinge über die Bananen präsentiert.
 		<br />
 		Wir erklären dir, weshalb
-		<a href="Banane.php" target="_self"> die Banane</a> die zweitbeste Frucht
-		ist. <br />
+		<a href="Banane.php" target="_self"> die Banane</a> die zweitbeste Frucht ist.
+		<br />
 	</div>
 
 	<div class="Geschmak">
@@ -93,8 +93,8 @@
 		</div>
 		<h2>Geruch</h2>
 		<p>
-			Bananen besitzen einen ganz leicht angenehmen Geruch. Treten einige
-			Bananen <br />
+			Bananen besitzen einen ganz leicht angenehmen Geruch. Treten einige Bananen
+			<br />
 			ins Klimakterium (turner),<br />
 			wird der von der Ware ausgehende Geruch merklich intensiver.
 		</p>
