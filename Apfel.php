@@ -19,7 +19,7 @@ Mal sind die sauer, mal zuckersüß.<br>
 Hier hast du mal eine kleine Liste, welche Sorten von Äpfel die belietesten sind und vorallem, wie diese schmecken :P <hr>
 </div>
 
-<table cellspacing="3" cellpadding="3">
+<table>
 <tbody>
 <tr>
 <td><img src="https://www.ndr.de/ratgeber/kochen/warenkunde/elstar101_v-contentxl.jpg" alt="Elstar" width="330" height="240"/></td>
