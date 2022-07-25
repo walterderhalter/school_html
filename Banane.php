@@ -155,16 +155,17 @@ Quelle Fakt: <a href="https://www.stern.de/panorama/wissen/natur/warum-hassen-ma
 
  </table>
 
- </table>
- <p>Quelle: <a href="https://www.gesundheitswissen.de/ernaehrung/gesunde-lebensmittel/obst-und-gemuese/alles-banane-oder-was/" 
-    target="_self"> Link</a></p>
-
+    
+ <p>    Quelle: <a href="https://www.gesundheitswissen.de/ernaehrung/gesunde-lebensmittel/obst-und-gemuese/alles-banane-oder-was/" 
+    target="_self"> Link</a>
+    </p>
+    </div>
     <hr>
 
 <p> 
   Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter:
 </p>
-    <p>
+    
         <div class="Linksbündig">
             <a href="Apfel.php" 
             target="_self"> Platz 1: Die Apfel</a>
@@ -174,7 +175,7 @@ Quelle Fakt: <a href="https://www.stern.de/panorama/wissen/natur/warum-hassen-ma
             <a href="Pfirsich.php" 
             target="_self"> Platz 3: Der Pfirsich</a>
         </div>
-    </p>
+    
 
 </main>
 
