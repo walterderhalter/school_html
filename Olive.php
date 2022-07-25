@@ -10,7 +10,7 @@ deswegen gibt es hier nichts :( </h2>
 <p> 
   Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter:
 </p>
-    <p>
+   
         <div class="Linksbündig">
             <a href="Kirsche.php" 
             target="_self"> Platz 6: Die Kirsche</a>
@@ -19,7 +19,7 @@ deswegen gibt es hier nichts :( </h2>
         <div class="Rechtsbündig">
             <a href="Leer.php" 
             target="_self"> Platz 8: Die Maracuja</a>
-        </div>
-    </p>
+  </div>
+    
 </main>
 <?php include('footer.php'); ?>
