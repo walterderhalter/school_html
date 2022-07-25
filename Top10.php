@@ -17,11 +17,11 @@
 	</ol>
 
 	<p>
-		Hinweis: Die Texte sind Teilweise 1:1 von anderen Webseiten übernommen. <br>
+		Hinweis: Die Texte sind teilweise 1:1 von anderen Webseiten übernommen. <br>
 		Entsprechende Quellen sind als Link zur Website angegeben.
 	</p>
 
-	Klick auf die einzelnen Felder und um mehr zu erfahren:<br>
+	Klick auf die einzelnen Felder, um mehr zu erfahren:<br>
 
 	<div class="Fruechte-container container">
 		<div class="Fruechte-type">
