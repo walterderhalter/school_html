@@ -15,7 +15,7 @@ Sorry, your browser doesn't support embedded videos.
 <p> 
   Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter:
 </p>
-    <p>
+    
         <div class="Linksbündig">
             <a href="Heidelbeere.php" 
             target="_self"> Platz 5: Die Heidelbeere</a>
@@ -25,7 +25,7 @@ Sorry, your browser doesn't support embedded videos.
             <a href="Olive.php" 
             target="_self"> Platz 7: Die Olive</a>
         </div>
-    </p>
+    
 
 
 <?php include('footer.php'); ?>
