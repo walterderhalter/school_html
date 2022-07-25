@@ -11,7 +11,7 @@
 <p> 
   Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter:
 </p>
-    <p>
+    
         <div class="Linksbündig">
             <a href="Leer.php" 
             target="_self"> Platz 8: Die Maracuja</a>
@@ -21,6 +21,6 @@
             <a href="Leer.php" 
             target="_self"> Platz 10: Die Himbeere</a>
         </div>
-    </p>
+    
 
 <?php include('footer.php'); ?>
