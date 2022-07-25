@@ -30,8 +30,8 @@ Deshalb kann man das Aroma der <span style="color:red;" >Erdbeeren</span> , die 
 
 Quelle: <a href="https://www.gutekueche.at/erdbeeren-artikel-1122#:~:text=Geschmack-,Der%20Geschmack%20von%20Erdbeeren%20l%C3%A4sst%20sich%20einfach%20beschrieben%3A%20Sie%20schmecken,weniger%20ist%20die%20S%C3%BC%C3%9Fe%20ausgepr%C3%A4gt." 
     target="_self">Link</a>
+ </pre>
 </div>
-</pre>
 <hr>
 
 
@@ -97,8 +97,8 @@ Quelle: <a href="https://wez.de/erdbeeren/">Link</a>
     </p>
 
 <table class="table"> 
+  <caption>Übersichtstabelle</caption>
 <thead>
-<caption>Übersichtstabelle</caption>
     <tr> 
     <th> Erdbeere Inhaltsstoffe</th> 
     <th> <p>je 100 <abbr title="Gramm">g</abbr> verzehr-<br>barer Anteil, ungeschält, roh</p></th> 
@@ -176,13 +176,13 @@ Quelle: <a href="https://wez.de/erdbeeren/">Link</a>
  </table>
  <p>Quelle: <a href="https://www.gesundheit.gv.at/leben/ernaehrung/saisonkalender/alle/erdbeeren.html" 
     target="_self"> Link</a></p>
-
+  </div>
     <hr>
 
 <p> 
   Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter:
 </p>
-    <p>
+    
         <div class="Linksbündig">
             <a href="Pfirsich.php" 
             target="_self"> Platz 3: Der Pfirsich</a>
@@ -192,7 +192,7 @@ Quelle: <a href="https://wez.de/erdbeeren/">Link</a>
             <a href="Heidelbeere.php" 
             target="_self"> Platz 5: Die Heidelbeere</a>
         </div>
-    </p>
+    
 
 
 </main>
