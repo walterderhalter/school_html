@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
 <html lang="de">
-<header>
+<head>
   <meta charset="UTF-8">
-   <title>Früchte</title>
+  <title>Früchte</title>
    <link rel="stylesheet" href="css/Foooter.css">
    <link rel="stylesheet" href="css/style.css">
    <link rel="stylesheet" href="css/footer.css">
@@ -12,13 +12,13 @@
    <link rel="stylesheet" href="css/banana.css">
    <link rel="stylesheet" href="css/Peach.css">
    <link rel="stylesheet" href="css/Strawberry.css">
-</header>
+</head>
 <body class="body-style" >
 
   
-  <div class="top-container">
+  <header class="top-container">
     <h1>Früchte</h1>
     <p>Eine sehr tolle und fruchtige Website</p>
-</div>
+  </header>
 
 
