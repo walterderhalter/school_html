@@ -73,7 +73,8 @@ Hier geht es zum Video:
     Damit du auch vor Augen hast, wie beliebt die Frucht der Deutschen ist, <br>
     zeigen wir dir an 5 Fakten: 
     </p>
-
+</div>
+</main>
 
     <artical class="fivefact">
     <h3> 5 Fakten über Äpfel </h3>
@@ -119,7 +120,7 @@ Hier geht es zum Video:
     <p>Quelle: <a href="https://www.geo.de/geolino/natur-und-umwelt/14740-rtkl-gib-mir-fuenf-fuenfmal-staunen-ueber-aepfel#:~:text=Etwa%20sieben%20Jahre%20muss%20ein,%2C%20Eiwei%C3%9F%2C%20Mineralstoffe%20und%20Vitamine." 
     target="_self"> Link</a></p>
     </artical>
-</div>
+
 <hr>
 
 <div class ="Inhaltsstoffe">
@@ -130,8 +131,8 @@ Hier geht es zum Video:
     </p>
 
 <table class="table"> 
+    <caption>Übersichtstabelle</caption>
 <thead>
-<caption>Übersichtstabelle</caption>
     <tr> 
     <th> Apfel Inhaltsstoffe</th> 
     <th> <p>je 100 <abbr lang="de" title="Gramm">g</abbr> verzehr-<br>barer Anteil, ungeschält, roh</p></th> 
@@ -209,6 +210,7 @@ Hier geht es zum Video:
  </table>
  <p>Quelle: <a href="https://www.gesundheit.gv.at/leben/ernaehrung/saisonkalender/alle/apfel.html" 
     target="_self"> Link</a></p>
+    </div>
     <hr>
 
 
@@ -220,6 +222,6 @@ Hier geht es zum Video:
             target="_self"> Platz 2: Die Banane</a>
     </div>
 
-</main>
+
 
 <?php include('footer.php'); ?>
