@@ -39,7 +39,7 @@
   <div>
   <h2>Früchte-Fakten, die du vielleicht noch nicht kanntest</h2>
 
-  <ol>
+  <dl>
     <dt><h3>1. Die Farbe Orange ist nach der Frucht benannt worden, nicht umgekehrt.</h3></dt>
     <dd>Vor der Erfindung des Wortes „Orange“ wurden orangene Dinge als „Safran“ oder rot beschrieben. Das erklärt, warum wir von Rothaarigen statt von Orangehaarigen reden, was eigentlich zutreffender wäre.</dd>
 
@@ -56,13 +56,13 @@
     <dd>Zur Zeit des Nationalsozialismus wurde die Bezeichnung «Banane» verboten, da man eine Sprache ohne Fremdwörter bilden wollte. Die Banane taufte man dann in «Schlauchapfel» um. Seit dem zweiten Weltkrieg ist der Begriff jedoch in keinem Wörterbuch mehr zu finden.</dd>
 
 
-    <dt><h3></h3></dt>
+    <dt></dt>
     <dd></dd>
 
-    <dt><h3></h3></dt>
+    <dt></dt>
     <dd></dd>
 
-  </ol>
+  </dl>
 
 
   </div>
@@ -70,7 +70,6 @@
 
 
 
-</div>
 </div>
 
 <?php include('footer.php'); ?>
