@@ -17,7 +17,7 @@ allowfullscreen></iframe>
 <p> 
   Wir hoffen, dass der Artikel dir gefallen hat. Hier geht es weiter:
 </p>
-    <p>
+    
         <div class="Linksbündig">
             <a href="Erdbeere.php" 
             target="_self"> Platz 4: Die Erdbeere</a>
@@ -27,6 +27,6 @@ allowfullscreen></iframe>
             <a href="Kirsche.php" 
             target="_self"> Platz 6: Die Kirsche</a>
         </div>
-    </p>
+    
 
 <?php include('footer.php'); ?>
