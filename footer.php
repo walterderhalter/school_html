@@ -58,11 +58,11 @@
 
 
 
-
+</ul>
 
 <p>Copyright &copy; 2022  All rights not reserved. :)</p>
 
-</ul>
+
 </footer>
 
 </html>
